@@ -42,7 +42,7 @@ Frontend Developer 💻 | Learning ReactJS 🌱 | Lover of minimal & aesthetic d
 
 ### 🌸 Let’s Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/ankitathorve"><img src="https://img.shields.io/badge/LinkedIn-Ankita%20Thorve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/ankita-thorve"><img src="https://img.shields.io/badge/LinkedIn-Ankita%20Thorve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ankietathorve@gmail.com"><img src="https://img.shields.io/badge/Gmail-Ankita%20Thorve-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <!--<a href="https://instagram.com/lavenderlogic"><img src="https://img.shields.io/badge/Instagram-@lavenderlogic-purple?style=for-the-badge&logo=instagram"></a>-->
 </p>
