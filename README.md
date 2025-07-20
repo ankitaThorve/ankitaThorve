@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="avatar.png" width="200" style="border-radius: 50%;" alt="Ankita's Avatar">
-</p>
+</p>-->
 
 
 <h1 align="center">🌸 Hi, I’m Ankita! 🌸</h1>
