@@ -31,7 +31,7 @@ Git · GitHub · VS Code
 
 ### Connect
 
-- LinkedIn: [your-link](www.linkedin.com/in/ankita-thorve)
+- LinkedIn: [Ankita Thorve](www.linkedin.com/in/ankita-thorve)
 - Email: ankietathorve@gmail.com
 
 
