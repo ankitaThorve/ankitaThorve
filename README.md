@@ -1,8 +1,48 @@
+# Hi, I'm Ankita Thorve 👋
+
+Frontend developer in progress — currently building daily mini projects in HTML, CSS, and JavaScript to sharpen fundamentals and UI instincts.
+
+---
+
+### What I'm focusing on
+
+- Recreating real-world layouts and components
+- Writing clean, semantic HTML and modern, responsive CSS
+- Adding interactivity with vanilla JavaScript (DOM, events, state)
+
+---
+
+<!--### Projects from my learning journey
+
+- [Project 1 – Short title](https://your-live-link.com) · [Code](https://github.com/your-username/project-1)
+- [Project 2 – Short title](https://your-live-link.com) · [Code](https://github.com/your-username/project-2)
+- [Project 3 – Short title](https://your-live-link.com) · [Code](https://github.com/your-username/project-3)
+
+_(Pin your favourite repos so they show below this section.)_-->
+
+---
+
+### Tech I work with
+
+HTML · CSS · JavaScript  
+Git · GitHub · VS Code  
+
+---
+
+### Connect
+
+- LinkedIn: [your-link](www.linkedin.com/in/ankita-thorve)
+- Email: ankietathorve@gmail.com
+
+
+
+
+
 <!--<p align="center">
   <img src="avatar.png" width="200" style="border-radius: 50%;" alt="Ankita's Avatar">
 </p>-->
 
-
+<!--
 <h1 align="center">🌸 Hi, I’m Ankita! 🌸</h1>
 <p align="center">
 Frontend Developer 💻 | Learning ReactJS 🌱 | Lover of minimal & aesthetic designs 🎨
@@ -44,13 +84,14 @@ Frontend Developer 💻 | Learning ReactJS 🌱 | Lover of minimal & aesthetic d
 <p align="center">
   <a href="https://linkedin.com/in/ankita-thorve"><img src="https://img.shields.io/badge/LinkedIn-Ankita%20Thorve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ankietathorve@gmail.com"><img src="https://img.shields.io/badge/Gmail-Ankita%20Thorve-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <!--<a href="https://instagram.com/lavenderlogic"><img src="https://img.shields.io/badge/Instagram-@lavenderlogic-purple?style=for-the-badge&logo=instagram"></a>-->
+  <!--<a href="https://instagram.com/lavenderlogic"><img src="https://img.shields.io/badge/Instagram-@lavenderlogic-purple?style=for-the-badge&logo=instagram"></a>
 </p>
 
 ---
 
 ### 🌟 Fun Fact
-> I believe great UIs are like poetry—they flow beautifully and make you *feel* something. ✨
+I believe great UIs are like poetry—they flow beautifully and evoke a sense of emotion. ✨
+-->
 
 
 <!--
