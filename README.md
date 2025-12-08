@@ -1,4 +1,4 @@
-# Hi, I'm Ankita Thorve 👋
+# Hi, I'm Ankita 👋
 
 Frontend developer in progress — currently building daily mini projects in HTML, CSS, and JavaScript to sharpen fundamentals and UI instincts.
 
